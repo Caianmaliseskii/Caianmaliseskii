@@ -4,5 +4,3 @@
 🐍 Estudando **Python**  
 📬 Contato: caian.maliseskii.dev@gmail.com  
 🧠 Pronomes: **Ele/Dele**
-
-✨ Obrigado por visitar meu perfil!
